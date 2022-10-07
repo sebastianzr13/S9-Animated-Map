@@ -16,25 +16,21 @@
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/sebastianzr13/s9-animated-map?color=56BEB8">
 
   <img alt="License" src="https://img.shields.io/github/license/sebastianzr13/s9-animated-map?color=56BEB8">
-
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/sebastianzr13/s9-animated-map?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/sebastianzr13/s9-animated-map?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/sebastianzr13/s9-animated-map?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
 
+
 <h4 align="center"> 
-	🚧  S9 Animated Map 🚀 Under construction...  🚧
+	🚧  Under construction...  🚧
 </h4> 
 
-<hr> 
+<hr>
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#rocket-roadmap">Roadmap</a> &#xa0; | &#xa0; 
+  <a href="#sparkles-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
@@ -49,7 +45,13 @@ Animation on a rendered Map, simulating the a bus route and its different pick-u
 
 Goal: Build and manipulate maps on web pages 
 
-## :rocket: Technologies ##
+## :rocket: Roadmap ##
+
+- Route will be updated for one line of the Metro System of the city of Medellin
+- Station data will be taken from a public government API 
+- New design for map pointer
+
+## :sparkles: Technologies ##
 
 The following tools were used in this project:
 
