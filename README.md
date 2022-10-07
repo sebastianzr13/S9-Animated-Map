@@ -41,7 +41,7 @@
 
 ## :dart: About ##
 
-Animation on a rendered Map, simulating the a bus route and its different pick-up locations.
+Animation on a rendered Map, simulating one bus route and its different pick-up locations.
 
 Goal: Build and manipulate maps on web pages 
 
